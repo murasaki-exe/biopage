@@ -13,6 +13,7 @@
   },
   "scripts": {
     "build-css": "sass --no-source-map scss/styles.scss public/css/styles.css",
-    "watch-css": "sass --watch --no-source-map scss/styles.scss public/css/styles.css"
+    "watch-css": "sass --watch --no-source-map scss/styles.scss public/css/styles.css",
+    "start": "index.js"
   }
 }
